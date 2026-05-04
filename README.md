@@ -1,4 +1,5 @@
 <img width="1366" height="768" alt="College Network" src="https://github.com/user-attachments/assets/f27ef5ef-d872-4dc4-a4cd-1ca1cf33e5c7" />
+
 # 🏫 College Network — Cisco Packet Tracer
 
 A simulated multi-building college campus network designed and implemented using **Cisco Packet Tracer**. The topology covers the core infrastructure of a real-world academic environment, including administrative offices, faculty departments, student labs, a library, and a data center — all interconnected with proper segmentation, routing, and security policies.
